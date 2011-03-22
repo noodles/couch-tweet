@@ -1,0 +1,7 @@
+# Mac OS X Finder
+.DS_Store 
+
+# Other source repository archive directories (protects when importing)
+.hg
+.svn
+CVS
